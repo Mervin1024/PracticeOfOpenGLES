@@ -297,12 +297,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F692N24C9P;
+				DEVELOPMENT_TEAM = X4AW54WQH8;
 				INFOPLIST_FILE = "001-OpenGL实践01图片绘制/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mervin1024.practice.-01-OpenGL--01----";
+				PRODUCT_BUNDLE_IDENTIFIER = com.boxfish.digi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -311,12 +312,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F692N24C9P;
+				DEVELOPMENT_TEAM = X4AW54WQH8;
 				INFOPLIST_FILE = "001-OpenGL实践01图片绘制/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mervin1024.practice.-01-OpenGL--01----";
+				PRODUCT_BUNDLE_IDENTIFIER = com.boxfish.digi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
